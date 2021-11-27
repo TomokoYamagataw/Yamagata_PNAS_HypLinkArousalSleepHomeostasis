@@ -34,7 +34,7 @@ Some basic mfiles have no figure names. These files are for below.
 
 % Calculate EEG spectra
 
-	ReadVSspecEEGall.m
+        ReadVSspecEEGall.m
 
 
 % Calculate EMG variance for wake latency analysis
