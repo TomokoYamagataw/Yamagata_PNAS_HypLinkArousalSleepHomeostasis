@@ -31,7 +31,7 @@ Some mfiles have no figure names. These files are for below.
         aPlotEEGandEMGprofilesDaysWriteOutVar.m
 	
 
-% ---------   here, Manual Scoring and FFT calculation from sleepsign  --------
+% ---------   here, Manual Scoring and FFT calculation on sleepsign  --------
 
 
 % Plot EEG spectra
