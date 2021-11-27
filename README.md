@@ -1,8 +1,12 @@
 # Yamagata_et_al_PNAS_2021_HypLinkArousalSleepHomeostasis
 Codes generated for Yamagata et al, The hypothalamic link between arousal and sleep homeostasis in mice. PNAS (2021)
 
+
+
 Please follow the title of mfiles to make figures in the paper.
 (ex. For plotting the fibertip's location as shown in Fig1B, see Fig1B_Plot_fibertips.m)
+
+
 
 Some basic mfiles have no figure names. These files are for below. 
 
