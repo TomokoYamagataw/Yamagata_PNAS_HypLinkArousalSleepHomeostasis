@@ -16,7 +16,7 @@ Some basic mfiles have no figure names. These files are for below.
         resampling_new.m
 
 
-% Make edf files for scoring on SleepSign (additionally, you need ascii to edf file converter)
+% Make edf files for sleep scoring on SleepSign (you need ascii-edf converter)
 
         Read_EEGs_EMGs_Resample.m
         aCreateTXTfile_EEG_EMG.m (no stimulation OR stimulation timing masked)
@@ -24,9 +24,17 @@ Some basic mfiles have no figure names. These files are for below.
         aCreateTXTfile_EEG_EMG_optSTIM.m (stimulation timing visualized version)
 	
 	
-% Check SWA and EMG before scoring	
+% Check SWA and EMG and check the quality of recording 	
 
         aPlotEEGandEMGprofilesDaysWriteOutVar.m
+	
+
+%%%%%%     Manual Scoring and FFT calculation from sleepsign   %%%%%%%%
+
+
+% Calculate EEG spectra
+
+	ReadVSspecEEGall.m
 
 
 % Calculate EMG variance for wake latency analysis
