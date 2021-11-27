@@ -21,9 +21,9 @@ Some mfiles have no figure names. These files are for below.
 % Make edf files for sleep scoring on SleepSign (you need ascii-edf converter)
 
         Read_EEGs_EMGs_Resample.m
-        aCreateTXTfile_EEG_EMG.m (no stimulation OR stimulation timing masked)
+        aCreateTXTfile_EEG_EMG.m (no stimulation OR stimulation masked)
         Read_STIM.m (readout stimulation timing)
-        aCreateTXTfile_EEG_EMG_optSTIM.m (stimulation timing visualized version)
+        aCreateTXTfile_EEG_EMG_optSTIM.m (stimulation timing visualized)
 	
 	
 % Check SWA and EMG and check the quality of recording 	
